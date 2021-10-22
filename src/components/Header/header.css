@@ -1,0 +1,48 @@
+.mainHeader {
+    overflow: hidden;
+
+    display: flex;
+    align-items: center;
+
+    margin-top: 1.6rem;
+
+    width: 100%;
+}
+
+.Logo {
+    height: 4.2rem;
+}
+
+.Links * {
+    color: #010e39;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-decoration: none;
+
+    margin-left: 4rem;
+    display: inline-block;
+}
+
+.Links a:hover {
+    border-bottom: 0.3rem solid #ffc000;
+}
+
+.Links button {
+    background-image: linear-gradient(90deg,#fab22f,#fc8c3b);
+
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: 700;
+
+    border-radius: 0.3rem;
+    border-width: 0;
+
+    padding: 2.1rem 2.7rem;
+    margin-left: 3rem;
+    line-height: 0;
+}
+
+.Links button:hover {
+    background-image: linear-gradient(90deg,#fac329,#fab22f);
+    text-decoration: none;
+}

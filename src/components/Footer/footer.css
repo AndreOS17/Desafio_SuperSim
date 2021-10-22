@@ -1,0 +1,72 @@
+.mainFooter {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+
+    background-color: #010e39;
+}
+
+.LinksGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.LinksGrid * {
+    color: #ffffff;
+    font-size: 1.25rem;
+    text-decoration: none;
+
+    margin-bottom: 1.5rem;
+
+    list-style: none;
+}
+
+.LinksGrid .ListTitle {
+    font-weight: bold;
+}
+
+.SearchBox {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.SearchBox p {
+ font-size: 1.25rem;
+}
+
+.SearchBox select {
+    border: 0.1rem solid #b4b5c4;    
+    border-radius: 0.4rem;
+
+    font-size: 1.5rem;
+
+    height: 3.5rem;
+    width: 20rem;
+    line-height: 2.5rem;
+
+    margin-top: 0.6rem;
+    padding: 0.4rem 0.6rem;
+}
+
+.LogosGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    padding-bottom: 4rem;
+}
+
+.LogosGrid .LogoSS {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.LogosGrid .Icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.LogosGrid .Icons * {
+    width: 1.5rem;
+    margin-right: 1.5rem;
+}

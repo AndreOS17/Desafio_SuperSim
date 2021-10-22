@@ -2,15 +2,15 @@ import React from "react";
 import Footer from "../../components/Footer/footer";
 import Header from "../../components/Header/header";
 
-function Info() {
+function SignUp() {
     return (
         <div>
             <Header/>
             <p>Hello World!</p>
-            <p>Info</p>
+            <p>SignUp</p>
             <Footer/>
         </div>
     )
 }
 
-export default Info;
+export default SignUp;

@@ -1,0 +1,24 @@
+:root {
+    font-size: 75%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+
+    font-family: 
+        hk_grotesk,
+        -apple-system,
+        system-ui,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        "Helvetica Neue",
+        sans-serif;
+}
+
+html, body, #root {
+    height: 100%;
+}
