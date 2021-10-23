@@ -25,6 +25,7 @@
 
 .Links a:hover {
     border-bottom: 0.3rem solid #ffc000;
+    cursor: pointer;
 }
 
 .Links button {
@@ -44,5 +45,5 @@
 
 .Links button:hover {
     background-image: linear-gradient(90deg,#fac329,#fab22f);
-    text-decoration: none;
+    cursor: pointer;
 }
