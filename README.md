@@ -1,46 +1,91 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# <center>Desafio SuperSim</center>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+Esse projeto tem como objetivo cumprir as especificações propostas pelo time da [SuperSim](www.supersim.com.br/quem-somos/).
 
-### `yarn start`
+> As especificações podem ser encontradas no [Arquivo](https://s3.amazonaws.com/gupy5/production/companies/1954/emails/1634850433167/db7a8510-32b2-11ec-9d31-8f49dbc7bba6/desafio_supersim_estgio_-_jnior.pdf).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Quem sou eu?
 
-### `yarn test`
+Sou o André Barbosa de Oliveira Silva, na data atual - 22 de outubro de 2021 - tenho 18 anos e com a curiosidade pela programação e desenvolvimento eu sou um dos participantes do processo seletivo da SuperSim.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## O Projeto
 
-### `yarn build`
+Escolhi trabalhar com o próprio site da [SuperSim](https://www.supersim.com.br/) para desenvolver o site clone, motivos?
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
++ Com o objetivo de trazer dados dinâmicos para a aplicação, a empresa não tem uma API para as informações expostas no Site, dando motivação a construir a própria API para utilização no projeto;
++ O Site da empresa é bem dinâmico e moderno, garantindo um desafio a mais quanto à organização e estética;
++ Sendo a apresentação da empresa, gostaria de apresentar a minha visão e construção em cima do projeto deles.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Tecnologias
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Falando um pouco do que foi usado na construção do projeto:
 
-### `yarn eject`
++ React (**+Typescript**), HTML e CSS foram os escolhidos para a execução do Front-End:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+    + Já tenho mais prática com o desenvolvimento de Sites com essas ferramentas, então antes de tentar explorar alguma coisa nova para aprender eu deixei essas como minha zona de conforto.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
++ Como já mencionado, o Back-End, responsável pelos dados dinâmicos será construido como uma API própria, em Django ou Flask
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+    + Com todo o Front-End como uma zona de conforto definida, para o Back-End foi escolhido uma tecnologia com a qual eu nunca mexi, os Frameworks Web do Python, Django e Flask, estou animado para realizar a operações necessárias com eles.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
++ A implementação de Testes e a utilização do Docker vão ser avaliadas.
 
-## Learn More
++ O deploy da aplicação vai ser avaliado.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### O que foi feito
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+A seguintes etapas foram tomadas para a realização do projeto:
+
+- [x] Escolha do Site para *"Clonagem"* ([Site da SuperSim](https://www.supersim.com.br/))
+- [x] Seleção de Páginas para construção de funcionalidade (Página Principal, Quem Somos e Entrar - Login e Cadastro)
+- [ ] Confecção do Front-End 
+    
+    + Processo: **25%**
+    + Processo: ![progress](http://progressed.io/bar/86?title=completed "progress")
+
+- [ ] Confecção do Back-End
+
+    + Processo: **Ainda não iniciado!**
+
+- [ ] Implementação de Testes
+
+    + Processo: **Em Avalização!**
+
+- [ ] Utilização do Docker
+
+    + Processo: **Em Avalização!**
+
+- [ ] Deploy do projeto (Heroku)
+
+    + Processo: **Em Avalização!**
+
+### Estratégia
+// TODO
+
+### O que não foi feito
+
+### Problemas
+// TODO
+
+### Tempo Necessário
+// TODO
+
+### Resolução
+// TODO
+
+---
+
+## <center>Utilização</center>
+
+### Baixar e Usar
+
+// TODO
+
+### Usar na Web
+
+// TODO
