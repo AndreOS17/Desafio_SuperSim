@@ -3,7 +3,7 @@
 
 ---
 
-Esse projeto tem como objetivo cumprir as especificações propostas pelo time da [SuperSim](www.supersim.com.br/quem-somos/).
+Esse projeto tem como objetivo cumprir as especificações propostas pelo time da [SuperSim](https://www.supersim.com.br/).
 
 > As especificações podem ser encontradas no [Arquivo](https://s3.amazonaws.com/gupy5/production/companies/1954/emails/1634850433167/db7a8510-32b2-11ec-9d31-8f49dbc7bba6/desafio_supersim_estgio_-_jnior.pdf).
 
@@ -45,24 +45,23 @@ A seguintes etapas foram tomadas para a realização do projeto:
 - [x] Seleção de Páginas para construção de funcionalidade (Página Principal, Quem Somos e Entrar - Login e Cadastro)
 - [ ] Confecção do Front-End 
     
-    + Processo: **25%**
-    + Processo: ![progress](http://progressed.io/bar/86?title=completed "progress")
+    + Processo: ![progress](https://progress-bar.dev/25/ "progresso")
 
 - [ ] Confecção do Back-End
 
-    + Processo: **Ainda não iniciado!**
+    + Processo: **Ainda não iniciado!** ![progress](https://progress-bar.dev/0/ "progresso")
 
 - [ ] Implementação de Testes
 
-    + Processo: **Em Avalização!**
+    + Processo: **Em Avalização!** ![progress](https://progress-bar.dev/0/ "progresso")
 
 - [ ] Utilização do Docker
 
-    + Processo: **Em Avalização!**
+    + Processo: **Em Avalização!** ![progress](https://progress-bar.dev/0/ "progresso")
 
 - [ ] Deploy do projeto (Heroku)
 
-    + Processo: **Em Avalização!**
+    + Processo: **Em Avalização!** ![progress](https://progress-bar.dev/0/ "progresso")
 
 ### Estratégia
 // TODO
