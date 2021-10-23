@@ -12,7 +12,7 @@ const Routes: React.FC = () => (
         <Switch>
             <Route path="/" exact component={Main} />
             <Route path="/Quem-Somos" component={Info} />
-            <Route path="/Entrar" component={Login} />
+            <Route path="/Entrar" exact component={Login} />
             <Route path="/Entrar/Novo-Login" component={SignUp} />
         </Switch>
     </BrowserRouter>
