@@ -1,0 +1,341 @@
+.InfoMain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    margin: 8rem 0;
+}
+
+.InfoMain h1 {
+    font-size: 7.7rem;
+    font-weight: 800;
+    line-height: 8.5rem;
+    text-align: center;
+    color: #141414;
+
+    margin-bottom: 3rem;
+    width: 70rem;
+}
+
+.InfoMain p {
+    font-size: 2rem;
+    font-weight: 500;
+    text-align: center;
+    color: #141414;
+
+    margin: 2rem auto 4rem;
+    width: 55rem;
+}
+
+.InfoMain p strong {
+    font-weight: 800;
+}
+
+.InfoMain .banner_ESS {
+    margin-top: 6rem;
+    margin-bottom: 3rem;
+
+    height: 50rem;
+
+    object-fit: cover;
+    width: 100%;
+}
+
+.InfoMain .SubTitle {
+    font-size: 5rem;
+    font-weight: 800;
+    line-height: 5rem;
+    color: #2a2b35;
+    text-align: center;
+
+    margin-bottom: 3rem;
+}
+
+.InfoMain .InfoText {
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin: 2rem auto;
+    color: #2a2b35;
+    width: 70rem;
+}
+
+.VContainer {
+    background-color: #ffc000;
+
+    padding-top: 6rem;
+    margin-top: 3rem;
+
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.VContainer .SubTitle {
+    max-width: 60rem;
+    color: #ffffff;
+}
+
+.VContainer div {
+    width: 100%;
+    height: 50rem;
+
+    padding: 0 10vw;
+    margin-bottom: 2rem;
+}
+
+
+.VContainer div iframe {
+    width: 100%;
+    height: 100%;
+    
+    border: 0;
+}
+
+.VContainer .InfoText {
+    max-width: 60rem;
+
+    color: #ffffff;
+
+    margin-bottom: 4rem;
+}
+
+.VContainer button {
+    background-color: #ffffff;
+    
+    border: 0;
+    border-radius: 0.3rem;
+
+    color: #141414;
+    font-size: 1.3rem;
+    font-weight: 700;
+
+    padding: 1.2rem 3.8rem;
+    margin-bottom: 6rem;
+
+    transition: 0.3s;
+}
+
+.VContainer button:hover {
+    background-color: #e6e5e5;
+    cursor: pointer;
+}
+
+.EContainer {
+    display: grid;
+    grid-template-columns: 56% 44%;
+
+    margin: 6rem 0;
+}
+
+.EContainer .SubTitle{
+    margin: 6rem;
+    padding-left: 1.5rem;
+
+    width: 50rem;
+
+    text-align: start;
+}
+
+.EContainer p {
+    width: 50rem;
+
+    padding-right: 4rem;
+    margin-bottom: 2rem;
+    margin-left: 7.5rem;
+
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 3rem;
+    text-align: start;
+}
+
+.EContainer h3 {
+    width: 50rem;
+
+    padding-left: 7.5rem;
+    margin-bottom: 2rem;
+
+    font-size: 2.3rem;
+    font-weight: 800;
+}
+
+.EContainer button {
+    padding: 1.2rem 3rem;
+    margin-left: 7.5rem;
+    margin-bottom: 2rem;
+
+    background-image: linear-gradient(90deg,#fab22f,#fc8c3b);
+
+    color: #ffffff;
+    font-size: 1.3rem;
+    font-weight: 700;
+
+    border-radius: 0.3rem;
+    border: 0;
+}
+
+.EContainer button:hover {
+    background-image: linear-gradient(90deg,#fac329,#fab22f);
+    cursor: pointer;
+}
+
+.EContainer img{
+    width: 100%;
+    height: auto;
+}
+
+.TContainer img {
+    width: 100%;
+    height: auto;
+}
+
+.TContainer {
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+    background-color: #f8f8f8;
+
+    padding: 6rem 0;
+}
+
+.TContainer .TContent {
+    width: 100%;
+}
+
+.TContainer .TContent * {
+    text-align: start;
+    padding-left: 11.5rem;
+}
+
+.TContainer .TContent h2 {
+    padding-top: 4.5rem;
+    padding-bottom: 2rem;
+}
+
+.TContainer .TContent p {
+    max-width: 95%;
+
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 3rem;
+    text-align: start;
+
+    padding-left: 10rem;
+}
+
+.TContainer .TContent h3 {
+    font-size: 2.1rem;
+    font-weight: 800;
+    margin: -2rem 0;
+}
+
+.TContainer .TContent button {
+    padding: 1.2rem 3rem;
+    margin-left: 11.5rem;
+    margin-top: -2rem;
+
+    background-image: linear-gradient(90deg,#fab22f,#fc8c3b);
+
+    color: #ffffff;
+    font-size: 1.3rem;
+    font-weight: 700;
+
+    border-radius: 0.3rem;
+    border: 0;
+}
+
+.TContainer .TContent button:hover {
+    background-image: linear-gradient(90deg,#fac329,#fab22f);
+    cursor: pointer;
+}
+
+.InfoLinks {
+    width: 100%;
+
+    padding: 4rem 0;
+    margin-bottom: 10rem;
+
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    align-items: center;
+
+    background-color: #ebebeb;
+}
+
+.InfoLinks * {
+    max-width: 10rem;
+    max-height: 10rem;
+    margin: 0 auto;
+    filter: grayscale(100%);
+}
+
+.InfoLinks *:hover {
+    cursor: pointer;
+}
+
+.InfoFeedback {
+    width: 100%;
+
+    padding: 10rem 0;
+
+    background-color: #ebebeb;
+}
+
+.InfoFeedback .SubTitle {
+    margin-bottom: 8rem;
+}
+
+.InfoFeedback .Feedbacks {
+    display: grid;
+    grid-template-columns: repeat(3, 35rem);
+    grid-row-gap: 2rem;
+    grid-column-gap: 0.5rem;
+    grid-template-rows: 35rem 35rem;
+    justify-content: center;
+}
+
+.InfoFeedback .Feedbacks * {
+    margin: 0 1rem;
+
+    display: flex;
+    flex-direction: column;
+
+    background-color: #ffffff;
+
+    border-radius: 0.3rem;
+    border: 0;
+
+    transition: 0.3s;
+}
+
+.InfoFeedback .Feedbacks div:hover {
+    transform: translateY(-.5rem);
+}
+
+.InfoFeedback .Feedbacks .FeedbackText{
+    text-align: start;
+    font-size: 1.6rem;
+    font-weight: 400;
+    max-width: 90%;
+    height: 12rem;
+    margin: 2.5rem 2rem;
+}
+
+.InfoFeedback .Feedbacks .FeedbackProfile{
+    border-radius: 50%;
+    width: 10rem;
+    height: 10rem;
+
+    align-self: center;
+}
+
+.InfoFeedback .Feedbacks .FeedbackName{
+    margin-top: 2rem;
+    max-width: 100%;
+
+    align-self: center;
+}
