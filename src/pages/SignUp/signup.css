@@ -1,4 +1,4 @@
-.LoginMain {
+.SignUpMain {
     width: 100%;
 
     display: flex;
@@ -6,7 +6,7 @@
     flex-direction: column;
 }
 
-.LoginMain .LoginTitle {
+.SignUpMain .SignUpTitle {
     color: #ffa30fff;
     font-size: 3.5rem;
     font-weight: 500;
@@ -14,15 +14,17 @@
     margin-top: 2rem;
 }
 
-.LoginMain .LoginSubTitle {
+.SignUpMain .SignUpSubTitle {
     color: #2a2B35FF;
-    font-size: 3.5rem;
+    font-size: 3.2rem;
     font-weight: 500;
 
     margin-bottom: 2rem;
+
+    width: 35rem;
 }
 
-.LoginMain form {
+.SignUpMain form {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -30,7 +32,7 @@
     width: 30rem;
 }
 
-.LoginMain form label {
+.SignUpMain form label {
     width: 80%;
 
     font-size: 1.5rem;
@@ -39,7 +41,7 @@
     margin-top: 2rem;
 }
 
-.LoginMain form input {
+.SignUpMain form input {
     width: 90%;
     height: 2rem;
 
@@ -47,25 +49,7 @@
     border-bottom: 1px solid #505050;
 }
 
-.LoginMain form a {
-    align-self: flex-start;
-
-    margin-left: 1.5rem;
-    margin-top: 1rem;
-    margin-bottom: 4rem;
-
-    color: #ffa30fff;
-    font-size: 1.6rem;
-    font-weight: 800;
-    text-decoration: none;
-
-}
-
-.LoginMain form a:hover {
-    cursor: pointer;
-}
-
-.LoginMain form button {
+.SignUpMain form button {
     color: #ffffff;
     font-size: 1.6rem;
     font-weight: 700;
@@ -78,31 +62,13 @@
     width: 65%;
     height: 4.5rem;
 
+    margin-top: 4rem;
     margin-bottom: 3rem;
 
     transition: 0.3s;
 }
 
-.LoginMain form button:hover {
+.SignUpMain form button:hover {
     opacity: 0.85;
     cursor: pointer;
-}
-
-.LoginMain form .CancelBT {
-    background-color: #ffffff;
-
-    border: 3px solid #ffa30fff;
-
-    margin-bottom: 4rem;
-}
-
-.LoginMain form .CancelBT:hover {
-    opacity: 0.85;
-    cursor: pointer;
-}
-
-.LoginMain form .CancelBT a {
-    margin: 0;
-
-    font-weight: 700;
 }
