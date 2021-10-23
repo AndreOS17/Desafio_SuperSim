@@ -45,23 +45,23 @@ A seguintes etapas foram tomadas para a realização do projeto:
 - [x] Seleção de Páginas para construção de funcionalidade (Página Principal, Quem Somos e Entrar - Login e Cadastro)
 - [ ] Confecção do Front-End 
     
-    + Processo: ![progress](https://progress-bar.dev/25/ "progresso")
+    + ![progress](https://progress-bar.dev/55/ "progresso")
 
 - [ ] Confecção do Back-End
 
-    + Processo: **Ainda não iniciado!** ![progress](https://progress-bar.dev/0/ "progresso")
+    + ![progress](https://progress-bar.dev/10/ "progresso")
 
 - [ ] Implementação de Testes
 
-    + Processo: **Em Avalização!** ![progress](https://progress-bar.dev/0/ "progresso")
+    + ![progress](https://progress-bar.dev/0/ "progresso")
 
 - [ ] Utilização do Docker
 
-    + Processo: **Em Avalização!** ![progress](https://progress-bar.dev/0/ "progresso")
+    + ![progress](https://progress-bar.dev/0/ "progresso")
 
 - [ ] Deploy do projeto (Heroku)
 
-    + Processo: **Em Avalização!** ![progress](https://progress-bar.dev/0/ "progresso")
+    + ![progress](https://progress-bar.dev/0/ "progresso")
 
 ### Estratégia
 // TODO
