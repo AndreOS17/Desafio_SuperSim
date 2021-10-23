@@ -45,11 +45,11 @@ A seguintes etapas foram tomadas para a realização do projeto:
 - [x] Seleção de Páginas para construção de funcionalidade (Página Principal, Quem Somos e Entrar - Login e Cadastro)
 - [ ] Confecção do Front-End 
     
-    + ![progress](https://progress-bar.dev/55/ "progresso")
+    + ![progress](https://progress-bar.dev/80/ "progresso")
 
 - [ ] Confecção do Back-End
 
-    + ![progress](https://progress-bar.dev/10/ "progresso")
+    + ![progress](https://progress-bar.dev/15/ "progresso")
 
 - [ ] Implementação de Testes
 
