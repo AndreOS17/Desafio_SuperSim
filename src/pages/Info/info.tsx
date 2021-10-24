@@ -52,7 +52,7 @@ function Info() {
                 <div className="VContainer">
                     <h2 className="SubTitle">Como a SuperSim consegue a maior taxa de aprovação?</h2>
                     <div>
-                        <iframe src="https://youtu.be/XgHYdiqodp0"></iframe>
+                        <iframe width="1040" height="615" src="https://www.youtube.com/embed/XgHYdiqodp0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
                     </div>
                     <p className="InfoText">Nossos produtos e serviços nasceram para atender nossa missão: 
                         flexibilizar o acesso ao crédito para quem precisa de verdade. Temos as melhores 
