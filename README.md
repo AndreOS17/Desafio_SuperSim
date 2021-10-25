@@ -67,31 +67,20 @@ A abordagem inicial do Projeto foi estudar e revisar a Página alvo de clonagem 
 
 > Com essas 3 já seria possível realizar alguns objetivos:
 
-    + Confecção de cards dinamicamente populada - Representados pelos cards de valores na página principal, além de poder criar os cards de Feedback como cards dinamicamente populados;
-
-    + Confecção de Formulário - Presente nas páginas de Login e Novo Login
-
-    + Certa Navegabilidade com algumas páginas - Total de 3 páginas criadas e 1 em desenvolvimento
-
-    + Prática de Utilização de API - Com a utilização em um funcionamento de Login primitivo e população dinâmica de valores em cards
-
-    + Prática com React, HTML e CSS - Tecnologias Obrigatórias no desafio
-
-    + Organização diretórios de projeto
-
-> 
+>    + Confecção de cards dinamicamente populada - Representados pelos cards de valores na página principal, além de poder criar os cards de Feedback como cards dinamicamente populados;
+>    + Confecção de Formulário - Presente nas páginas de Login e Novo Login
+>    + Certa Navegabilidade com algumas páginas - Total de 3 páginas criadas e 1 em desenvolvimento
+>    + Prática de Utilização de API - Com a utilização em um funcionamento de Login primitivo e população dinâmica de valores em cards
+>    + Prática com React, HTML e CSS - Tecnologias Obrigatórias no desafio
+>    + Organização diretórios de projeto
 
 + A API foi desenvolvida com a utilização do Framework Web Flask da Linguagem Python
 
 > Com o objetivo de aprender uma nova tecnologia durante o projeto, Python foi escolhido como a linguagem responsável pelo Back-End
 
-    + Com a prática de desenvolvimento Back-End em NodeJS, a aplicação dos conceitos foi facilidade
-
-    + A prática mais atual com Python tornou o processo de desenvolvimento bem fácil
-
-    + A utilização da API Flask não difere muito da aaplicação de seu semelhante em Javascript
-
->
+>    + Com a prática de desenvolvimento Back-End em NodeJS, a aplicação dos conceitos foi facilidade
+>    + A prática mais atual com Python tornou o processo de desenvolvimento bem fácil
+>    + A utilização da API Flask não difere muito da aaplicação de seu semelhante em Javascript
 
 ### O que não foi feito
 
@@ -209,6 +198,6 @@ Esse projeto termina aqui, mas provavelmente no futuro ele será continuado, já
 <br/>
 E se encontrar qualquer problema durante a execução, ou desejar comunicar alguma coisa, sinta-se a vontade para entrar em contato:
 
-+ `:email:` **andre.os908@gmail.com**
++ **andre.os908@gmail.com**
 
-+ `:iphone:` **(11) 97225-2481**
++ **(11) 97225-2481**
