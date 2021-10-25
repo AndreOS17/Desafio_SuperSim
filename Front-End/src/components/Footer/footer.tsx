@@ -50,8 +50,8 @@ export default function Footer() {
 
                 <div className="SearchBox">
                     <p>Páginas</p>
-                    <select>
-                        <option selected disabled>Selecione...</option>
+                    <select defaultValue={'0'}>
+                        <option value="0" disabled>Selecione...</option>
 
                         <option value="#">Admitad</option>
                         <option value="#">Adzappy</option>

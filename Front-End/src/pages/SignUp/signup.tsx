@@ -20,7 +20,6 @@ function SignUp() {
 
                     <button type="submit">CONTINUAR</button>
                 </form>
-                
             </div>
             <Footer/>
         </div>

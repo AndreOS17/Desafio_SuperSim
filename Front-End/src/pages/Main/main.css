@@ -1,0 +1,99 @@
+.EContainer_Main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    padding: 6rem 0;
+}
+
+.EContainer_Main .ECM_Content {
+    display: flex;
+    flex-direction: column;
+
+    padding: 0 4rem;
+}
+
+.EContainer_Main .ECM_Content .Main_Title{
+    color: #2a2b35;
+    font-size: 6.8rem;
+    font-weight: 800;
+    line-height: 5.6rem;
+
+    margin-bottom: 4rem;
+}
+
+.EContainer_Main .ECM_Content .EOptions {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr, 1fr;
+    grid-row-gap: 1.5rem;
+
+    margin-bottom: 2rem;
+}
+
+.EContainer_Main .ECM_Content .EOptions * {
+    width: 90%;
+    height: 5.5rem;
+
+    border: 2px #cccccc dashed;
+    border-radius: 0.5rem;
+
+    background-color: #ffffff;
+
+    color: #afafaf;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.EContainer_Main .ECM_Content .EOptions *:hover {
+    color: #fab22f;
+    border: 2px #fab22f solid
+}
+
+.EContainer_Main .ECM_Content .CheckText {
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    margin-top: 2rem;
+}
+
+.EContainer_Main .ECM_Content .CheckText img {
+    width: 3rem;
+    
+    margin-right: 1rem;
+}
+
+.EContainer_Main .ECM_Content .CheckText p {
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.EContainer_Main .ECM_Content .PedidoBT {
+    background: linear-gradient(90deg,#fab22f,#fc8c3b);
+
+    width: 100%;
+    height: 4rem;
+
+    margin-top: 4rem;
+
+    color: #ffffff;
+    font-size: 1.4rem;
+
+    border: 0;
+    border-radius: 0.3rem;
+}
+
+.EContainer_Main .ECM_Content .PedidoBT:hover {
+    background: linear-gradient(90deg,#fac329,#fab22f);;
+    cursor: pointer;
+}
+
+.EContainer_Main .HH_Img {
+    align-self: center;
+}
+
+
+
+
